@@ -1,15 +1,15 @@
 # Marketing Measurement Academy
 
-A self-contained browser-based study tool for mastering marketing measurement concepts ‚Äî built to make you conversant with executives and credible with analysts.
+A self-contained browser-based study tool for mastering marketing measurement concepts, built to make you conversant with executives and credible with analysts.
 
-**[‚ñ∂ Open the tool](https://chawk1634.github.io/marketing-measurement-academy/)** ‚Äî no install, just open in any browser.
+**[Open the tool](https://chawk1634.github.io/marketing-measurement-academy/)** ‚ no install, just open in any browser.
 
 ---
 
 ## What's inside
 
-### üÉè Flashcards (51 cards across 8 categories)
-Drill definitions and formulas. Rate yourself after each flip ‚Äî cards graduate to "Mastered" after 3 consecutive correct answers and leave the active deck.
+### Flashcards (51 cards across 8 categories)
+Drill definitions and formulas. Rate yourself after each flip. Once you're consistently providing the correct response, mark the card as mastered and it will leave the deck. 
 
 | Category | Cards |
 |----------|-------|
@@ -22,15 +22,15 @@ Drill definitions and formulas. Rate yourself after each flip ‚Äî cards grad
 | TV Measurement | 7 |
 | MER / ROAS | 5 |
 
-### üß© Case Studies (12 scenarios)
-Real-world multiple-choice scenarios ‚Äî choose the right model, diagnose the problem, or defend the decision. Full explanation revealed after each answer.
+### Case Studies (12 scenarios)
+Real-world multiple-choice scenarios ‚ choose the right model, diagnose the problem, or defend the decision. Full explanation revealed after each answer.
 
 Topics include: attribution conflicts, TV measurement design, CAC/LTV math, churn spike diagnosis, retargeting ROAS traps, geo holdout test design, payback vs. LTV trade-offs, brand health vs. ROAS, lower-funnel budget spirals, and more.
 
 ### Gamification
-- üî• Streak counter
-- ‚≠ê Mastered card tracking (3 consecutive correct = mastered)
-- ‚úì All-time score
+- Streak counter
+- Mastered card tracking (3 consecutive correct = mastered)
+- All-time score
 - Progress bars per category
 - All progress persists via `localStorage` across sessions
 
@@ -38,9 +38,9 @@ Topics include: attribution conflicts, TV measurement design, CAC/LTV math, chur
 
 ## How to use
 
-**Option 1 ‚Äî Live link:** [chawk1634.github.io/marketing-measurement-academy](https://chawk1634.github.io/marketing-measurement-academy/)
+**Option 1 ‚ Live link:** [chawk1634.github.io/marketing-measurement-academy](https://chawk1634.github.io/marketing-measurement-academy/)
 
-**Option 2 ‚Äî Run locally:** Clone the repo and open `index.html` in any browser. No server, no dependencies, no build step.
+**Option 2 ‚ Run locally:** Clone the repo and open `index.html` in any browser. No server, no dependencies, no build step.
 
 ```bash
 git clone https://github.com/chawk1634/marketing-measurement-academy.git
@@ -83,7 +83,7 @@ const CASES = [ ... ]   // case study data
 }
 ```
 
-Pull requests welcome ‚Äî especially new case studies, additional categories (e.g., attribution modeling, media planning, incrementality test design), or corrections to existing content.
+Pull requests welcome ‚ especially new case studies, additional categories (e.g., attribution modeling, media planning, incrementality test design), or corrections to existing content.
 
 ---
 
@@ -95,11 +95,11 @@ Marketing Mix Modeling (MMM) ¬∑ Multi-Touch Attribution (MTA) ¬∑ Increment
 
 ## Content sources & inspiration
 
-- [Recast Blog](https://getrecast.com/blog/) ‚Äî Bayesian MMM methodology, incrementality testing, TV measurement
-- Binet & Field ‚Äî *The Long and the Short of It* (eSOV, long-term brand effects)
-- Erwin Ephron ‚Äî Recency planning theory
+- [Recast Blog](https://getrecast.com/blog/) ‚ Bayesian MMM methodology, incrementality testing, TV measurement
+- Binet & Field ‚ *The Long and the Short of It* (eSOV, long-term brand effects)
+- Erwin Ephron ‚ Recency planning theory
 - Industry-standard benchmarks for CAC, LTV, payback periods, and churn
 
 ---
 
-*Built as a personal study tool. All content is educational ‚Äî verify benchmarks and formulas against primary sources before applying to your own organization.*
+*Built as a personal study tool. All content is educational ‚ verify benchmarks and formulas against primary sources before applying to your own organization.*
